@@ -64,14 +64,16 @@
 ## Variables
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: ID of channel for Auto Indexing. Separate multiple IDs by space. Make sure bot is admin.
-* `ADMINS`: ID of Admin. Separate multiple Admins by space.
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* `7992693219:AAFyz11hi_DC8ro4vuIcgYmiDXu2gL91I6Q
+`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `25733173`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `fea626c63bf648e1d8d11b35ff5b5570`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `1003622469985
+`: ID of channel for Auto Indexing. Separate multiple IDs by space. Make sure bot is admin.
+* `8458894963`: ID of Admin. Separate multiple Admins by space.
+* `cluster0`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video]()
+* `mongodb+srv://Alexdb123:Alexdb123@cluster0.yzprwyx.mongodb.net/?appName=Cluster0`: Name of the database in [mongoDB](https://www.mongodb.com).
+* `1003537172630` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
   
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
@@ -145,4 +147,5 @@ python3 bot.py
  - Thanks To [ɪᴛ'ꜱ ʟᴜғғʏ](https://t.me/CoderluffyTG) For fixing key errors and making the bot better. Your help has been truly appreciated!
  - Thanks To All Everyone In This Journey
  <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+
 
